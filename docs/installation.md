@@ -1,5 +1,15 @@
 # Installation
 
+
+## Requirements
+
+- [GCC](https://gcc.gnu.org/install/)
+- [Make](https://www.gnu.org/software/make/)
+- [Ruby](https://www.ruby-lang.org/en/downloads/)
+- [Node](https://nodejs.org)
+- [Yarn](https://yarnpkg.com)
+
+
 ## Install system dependencies
 
 - Install Node and Yarn - see [instructions](https://gist.github.com/MichaelCurrin/bdc34c554fa3023ee81449eb77375fcb).

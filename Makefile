@@ -16,8 +16,13 @@ upgrade:
 	bundle update
 	yarn upgrade
 
+
 s serve:
 	yarn start
 
+console:
+	bundle exec bridgetown console
+
 
 build:
+	yarn deploy

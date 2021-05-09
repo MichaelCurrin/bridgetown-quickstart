@@ -8,7 +8,7 @@
 [![Made with Yarn](https://img.shields.io/badge/Yarn-1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
 [![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
 
-[![dependency - bridgetown](https://img.shields.io/badge/dependency-bridgetown-blue?logo=vue.js&logoColor=white)](https://rubygems.org/gems/bridgetown)
+[![dependency - bridgetown](https://img.shields.io/badge/dependency-bridgetown-blue)](https://rubygems.org/gems/bridgetown)
 
 
 ## Preview

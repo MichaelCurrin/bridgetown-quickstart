@@ -41,6 +41,7 @@ If you are interested in a established Ruby-based static generator, see my [jeky
 
 
 ## Documentation
+> Set up and run the site locally and deploy the site
 
 <div align="center">
     

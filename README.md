@@ -1,6 +1,39 @@
 # Bridgetown Quickstart
 > Starter template for a Bridgetown static site
 
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/bridgetown-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/bridgetown-quickstart/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+[![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Made with Yarn](https://img.shields.io/badge/Yarn-1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
+[![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
+
+
+## Preview
+
+<div align="center">
+    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="400" />
+</div>
+
+
+## Use this project
+
+Add to your repos.
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/bridgetown-quickstart/generate)
+
+</div>
+
+
+## What is Bridgetown?
+
+- [bridgetownrb.com](https://www.bridgetownrb.com)
+    > Bridgetown is a Webpack-aware, Ruby-powered static site generator for the modern Jamstack era
+
+See [Bridgetown dev resources](https://michaelcurrin.github.io/dev-resources/resources/ruby/gems/bridgetown.html) to learn more.
+
 
 ## Requirements
 
@@ -59,15 +92,6 @@ You can deploy a Bridgetown site on [Jamstack][] hosts (Netlify, Vercel, Render,
 
 [Jamstack]: https://michaelcurrin.github.io/dev-resources/resources/other/jamstack.html
 
-
-## Resources
-
-- Learn more: [Bridgetown Getting Started Documentation](https://www.bridgetownrb.com/docs/).
-- Use a [theme](https://github.com/topics/bridgetown-theme)
-- Add some [plugins](https://www.bridgetownrb.com/plugins/)
-- Explore [#bridgetown-automation](https://github.com/topics/bridgetown-automation) on GitHub.
-- Learn more: [Bridgetown CLI Documentation](https://www.bridgetownrb.com/docs/command-line-usage)
-- Read the [Bridgetown Deployment Documentation](https://www.bridgetownrb.com/docs/deployment) for more information.
 
 
 ## Contributing

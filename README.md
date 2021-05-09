@@ -7,8 +7,7 @@
 [![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
 [![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Made with Yarn](https://img.shields.io/badge/Yarn-1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
-
-[![dependency - bridgetown](https://img.shields.io/badge/dependency-bridgetown-blue)](https://rubygems.org/gems/bridgetown)
+[![dependency - bridgetown](https://img.shields.io/badge/bridgetown-0.X-blue)](https://rubygems.org/gems/bridgetown)
 
 
 ## Preview

@@ -50,13 +50,14 @@ Open in the browser at:
 $ make build
 ```
 
+The output will be in the unversioned `output/` directory, which can be deployed.
+
 
 ## Deployment
 
 You can deploy a Bridgetown site on [Jamstack][] hosts (Netlify, Vercel, Render, etc.). Or on virtually any traditional web server by simply building and copying the output folder to your HTML root.
 
 [Jamstack]: https://michaelcurrin.github.io/dev-resources/resources/other/jamstack.html
-
 
 
 ## Resources

@@ -8,6 +8,8 @@
 [![Made with Yarn](https://img.shields.io/badge/Yarn-1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
 [![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
 
+[![dependency - bridgetown](https://img.shields.io/badge/dependency-bridgetown-blue?logo=vue.js&logoColor=white)](https://rubygems.org/gems/bridgetown)
+
 
 ## Preview
 
@@ -91,7 +93,6 @@ The output will be in the unversioned `output/` directory, which can be deployed
 You can deploy a Bridgetown site on [Jamstack][] hosts (Netlify, Vercel, Render, etc.). Or on virtually any traditional web server by simply building and copying the output folder to your HTML root.
 
 [Jamstack]: https://michaelcurrin.github.io/dev-resources/resources/other/jamstack.html
-
 
 
 ## Contributing

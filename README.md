@@ -40,62 +40,13 @@ See my [Bridgetown cookbook](https://michaelcurrin.github.io/code-cookbook/recip
 If you are interested in a established Ruby-based static generator, see my [jekyll-blog-demo](https://github.com/MichaelCurrin/jekyll-blog-demo/). Unlike Bridgetown, it doesn't require Node/Yarn and can be set up on GitHub Pages without a CI flow to deploy the site.
 
 
-## Requirements
+## Documentation
 
-- [GCC](https://gcc.gnu.org/install/)
-- [Make](https://www.gnu.org/software/make/)
-- [Ruby](https://www.ruby-lang.org/en/downloads/)
-- [Node](https://nodejs.org)
-- [Yarn](https://yarnpkg.com)
+<div align="center">
+    
+[![View - Documentation](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/)
 
-
-## Install
-
-### Install system dependencies
-
-- Install Node and Yarn - see [instructions](https://gist.github.com/MichaelCurrin/bdc34c554fa3023ee81449eb77375fcb).
-- Install Ruby and Bundler - see [instructions](https://gist.github.com/MichaelCurrin/fb758aea4d35e03b9ed093afddf4e7ec).
-
-### Clone
-
-```sh
-$ git clone git@github.com:MichaelCurrin/bridgetown-quickstart.git
-$ cd bridgetown-quickstart
-```
-
-### Install project packages
-
-```sh
-$ make install
-```
-
-
-## Usage
-
-### Serve
-
-```sh
-$ make start
-```
-
-Open in the browser at:
-
-- http://localhost:4000/
-
-### Build
-
-```sh
-$ make build
-```
-
-The output will be in the unversioned `output/` directory, which can be deployed.
-
-
-## Deployment
-
-You can deploy a Bridgetown site on [Jamstack][] hosts (Netlify, Vercel, Render, etc.). Or on virtually any traditional web server by simply building and copying the output folder to your HTML root.
-
-[Jamstack]: https://michaelcurrin.github.io/dev-resources/resources/other/jamstack.html
+</div>
 
 
 ## Contributing

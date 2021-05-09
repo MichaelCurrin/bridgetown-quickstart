@@ -38,6 +38,8 @@ See my [Bridgetown dev resources](https://michaelcurrin.github.io/dev-resources/
 
 See my [Bridgetown cookbook](https://michaelcurrin.github.io/code-cookbook/recipes/ruby/gems/bridgetown.html) for how to set up a new project from scratch, if you don't want to use this template project.
 
+If you are interested in a established Ruby-based static generator, see my [jekyll-blog-demo](https://github.com/MichaelCurrin/jekyll-blog-demo/). Unlike Bridgetown, it doesn't require Node/Yarn and can be set up on GitHub Pages without a CI flow to deploy the site.
+
 
 ## Requirements
 

@@ -4,9 +4,9 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/bridgetown-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/bridgetown-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+[![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
 [![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Made with Yarn](https://img.shields.io/badge/Yarn-1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
-[![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
 
 [![dependency - bridgetown](https://img.shields.io/badge/dependency-bridgetown-blue)](https://rubygems.org/gems/bridgetown)
 

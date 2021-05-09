@@ -21,7 +21,7 @@
 ### Clone
 
 ```sh
-$ git clone
+$ git clone git@github.com:MichaelCurrin/bridgetown-quickstart.git
 $ cd bridgetown-quickstart
 ```
 
@@ -36,7 +36,6 @@ $ make install
 
 ### Serve
 
-
 ```sh
 $ make start
 ```
@@ -48,25 +47,26 @@ Open in the browser at:
 ### Build
 
 ```sh
-$ make deploy
+$ make build
 ```
-
 
 
 ## Deployment
 
-You can deploy Bridgetown sites on "Jamstack" hosts (Netlify, Vercel, Render, etc.) or virtually any traditional web server by simply building and copying the output folder to your HTML root.
+You can deploy a Bridgetown site on [Jamstack][] hosts (Netlify, Vercel, Render, etc.). Or on virtually any traditional web server by simply building and copying the output folder to your HTML root.
 
-> Read the [Bridgetown Deployment Documentation](https://www.bridgetownrb.com/docs/deployment) for more information.
+[Jamstack]: https://michaelcurrin.github.io/dev-resources/resources/other/jamstack.html
+
 
 
 ## Resources
 
-Learn more: [Bridgetown Getting Started Documentation](https://www.bridgetownrb.com/docs/).
-
-Use a [theme](https://github.com/topics/bridgetown-theme), add some [plugins](https://www.bridgetownrb.com/plugins/), and/or run some [automations](https://github.com/topics/bridgetown-automation) to get started quickly.
-
-Learn more: [Bridgetown CLI Documentation](https://www.bridgetownrb.com/docs/command-line-usage)
+- Learn more: [Bridgetown Getting Started Documentation](https://www.bridgetownrb.com/docs/).
+- Use a [theme](https://github.com/topics/bridgetown-theme)
+- Add some [plugins](https://www.bridgetownrb.com/plugins/)
+- Explore [#bridgetown-automation](https://github.com/topics/bridgetown-automation) on GitHub.
+- Learn more: [Bridgetown CLI Documentation](https://www.bridgetownrb.com/docs/command-line-usage)
+- Read the [Bridgetown Deployment Documentation](https://www.bridgetownrb.com/docs/deployment) for more information.
 
 
 ## Contributing

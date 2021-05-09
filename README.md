@@ -34,7 +34,9 @@ Add to your repos.
 - [bridgetownrb.com](https://www.bridgetownrb.com)
     > Bridgetown is a Webpack-aware, Ruby-powered static site generator for the modern Jamstack era
 
-See [Bridgetown dev resources](https://michaelcurrin.github.io/dev-resources/resources/ruby/gems/bridgetown.html) to learn more.
+See my [Bridgetown dev resources](https://michaelcurrin.github.io/dev-resources/resources/ruby/gems/bridgetown.html) to learn more.
+
+See my [Bridgetown cookbook](https://michaelcurrin.github.io/code-cookbook/recipes/ruby/gems/bridgetown.html) for how to set up a new project from scratch, if you don't want to use this template project.
 
 
 ## Requirements
